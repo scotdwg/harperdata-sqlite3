@@ -2,10 +2,10 @@
 
 [![Docker Hub repository](http://dockeri.co/image/scotdwg/harperdata-sqlite3)](https://hub.docker.com/repository/docker/websharpstudios/harperdata-sqlite3/)
 
-[![](https://images.microbadger.com/badges/image/harperinc/harperdata-sqlite3.svg)](https://microbadger.com/images/harperinc/harperdata-sqlite3 "Get your own image badge on microbadger.com")
-[![](https://images.microbadger.com/badges/version/harperinc/harperdata-sqlite3.svg)](https://microbadger.com/images/harperinc/harperdata-sqlite3 "Get your own version badge on microbadger.com")
-[![Docker Automated buil](https://img.shields.io/docker/automated/scotdwg/harperdata-sqlite3.svg)](https://hub.docker.com/r/scotdwg/harperdata-sqlite3/)
-[![Build Status](https://travis-ci.org/scotdwg/harperdata-sqlite3.svg?branch=master)](https://travis-ci.org/scotdwg/harperdata-sqlite3)
+[![](https://images.microbadger.com/badges/image/websharpstudios/harperdata-sqlite3.svg)](https://microbadger.com/images/websharpstudios/harperdata-sqlite3 "Get your own image badge on microbadger.com")
+[![](https://images.microbadger.com/badges/version/websharpstudios/harperdata-sqlite3.svg)](https://microbadger.com/images/websharpstudios/harperdata-sqlite3 "Get your own version badge on microbadger.com")
+[![Docker Automated buil](https://img.shields.io/docker/automated/websharpstudios/harperdata-sqlite3.svg)](https://hub.docker.com/r/websharpstudios/harperdata-sqlite3/)
+[![Build Status](https://travis-ci.org/websharpstudios/harperdata-sqlite3.svg?branch=master)](https://travis-ci.org/websharpstudios/harperdata-sqlite3)
 
 # Versions
 
