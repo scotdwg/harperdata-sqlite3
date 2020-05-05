@@ -2,7 +2,7 @@ version: '3'
 
 services:
   sqlite3:
-    image: websharpstudios/harperdata-sqlite3:latest
+    image: harperinc/harperdata-sqlite3:latest
     stdin_open: true
     tty: true
     volumes:
