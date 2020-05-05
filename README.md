@@ -22,6 +22,6 @@ Use from command line:
 	docker run -it harperinc/harperdata-sqlite3
 or use with docker compose:
 
-	docker-compose run sqlite3
+	docker-compose run harperdata-sqlite3
 
 
