@@ -1,6 +1,6 @@
 # harperdata-sqlite3
 
-[![Docker Hub repository](http://dockeri.co/image/harperinc/harperdata-sqlite3)](https://hub.docker.com/repository/docker/websharpstudios/harperdata-sqlite3/)
+[![Docker Hub repository](http://dockeri.co/image/harperinc/harperdata-sqlite3)](https://hub.docker.com/repository/docker/harperinc/harperdata-sqlite3/)
 
 [![](https://images.microbadger.com/badges/image/harperinc/harperdata-sqlite3.svg)](https://microbadger.com/images/harperinc/harperdata-sqlite3 "Get your own image badge on microbadger.com")
 [![](https://images.microbadger.com/badges/version/harperinc/harperdata-sqlite3.svg)](https://microbadger.com/images/harperinc/harperdata-sqlite3 "Get your own version badge on microbadger.com")

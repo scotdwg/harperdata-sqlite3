@@ -3,3 +3,5 @@
 docker run -it --rm \
 	-v $(pwd):/root/db \
 	harperinc/harperdata-sqlite3:latest "$@"
+
+
