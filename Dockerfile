@@ -1,5 +1,5 @@
 FROM debian:jessie
-MAINTAINER Jean-Avit Promis "docker@harperinc.com"
+MAINTAINER Jean-Avit Promis "docker@websharpstudios.com"
 LABEL org.label-schema.vcs-url="https://github.com/harperinc/harperdata-sqlite3"
 LABEL version="latest"
 
