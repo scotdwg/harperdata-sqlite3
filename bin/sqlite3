@@ -2,4 +2,4 @@
 
 docker run -it --rm \
 	-v $(pwd):/root/db \
-	websharpstudios/harperdata-sqlite3:latest "$@"
+	harperinc/harperdata-sqlite3:latest "$@"
