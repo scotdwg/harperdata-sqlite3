@@ -2,4 +2,4 @@
 
 docker run -it --rm \
 	-v $(pwd):/root/db \
-	nouchka/sqlite3:latest "$@"
+	scotdwg/harperdata-sqlite3:latest "$@"

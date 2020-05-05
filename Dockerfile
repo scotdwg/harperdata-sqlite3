@@ -1,6 +1,6 @@
 FROM debian:jessie
-MAINTAINER Jean-Avit Promis "docker@katagena.com"
-LABEL org.label-schema.vcs-url="https://github.com/nouchka/docker-sqlite3"
+MAINTAINER Jean-Avit Promis "docker@websharpstudios.com"
+LABEL org.label-schema.vcs-url="https://github.com/scotdwg/harperdata-sqlite3"
 LABEL version="latest"
 
 RUN apt-get update && \
